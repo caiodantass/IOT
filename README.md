@@ -14,18 +14,11 @@ O repositório está organizado em pastas/arquivos de atividades numeradas, por 
 * Atividade 1
 * Atividade 2
 * …
-* Atividade 10
+* Projeto 1
+* Projeto 2
+* …
 
 Cada pasta contém os arquivos específicos da atividade proposta pela disciplina.
-
-📌 Como usar este repositório
-
-Este repositório é didático e pedagógico, voltado para:
-📍 Estudo de conceitos de dispositivos e redes de IoT
-📍 Referência de soluções e exemplos das atividades (como montagem de circuitos e códigos)
-📍 Consulta rápida ao código e diagramas produzidos na disciplina
-
-Para ver o código e o esquemático de alguma atividade, basta acessar a pasta correspondente e visualizar os arquivos (como `.ino` e `diagram.json`).
 
 💻 Tecnologias
 
