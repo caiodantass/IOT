@@ -23,14 +23,18 @@ Cada pasta contém os arquivos específicos da atividade proposta pela disciplin
 💻 Tecnologias
 
 Principais tecnologias e ferramentas utilizadas nas atividades:
+
 🧩 Programação em C/C++ (microcontroladores ESP32)
+
 🛠️ Simuladores de hardware e circuitos (Wokwi)
+
 📡 Protocolos de comunicação serial e arquiteturas de IoT
+
 (os detalhes dependem de cada atividade específica)
 
 📝 Autor
 
-Caio Lívio Leite Muniz Dantas
+- Caio Lívio Leite Muniz Dantas
 
 Aluno responsável pelas atividades e organização deste repositório.
 
