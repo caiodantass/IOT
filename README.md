@@ -31,6 +31,7 @@ Principais tecnologias e ferramentas utilizadas nas atividades:
 📝 Autor
 
 Caio Lívio Leite Muniz Dantas
+
 Aluno responsável pelas atividades e organização deste repositório.
 
 📫 Contato
